@@ -22,7 +22,11 @@ class Contact
 
 
   
- 
+ - [ ] Screen width (integer)
+ - [x] Service worker support
+ - [x] Fetch support
+ - [ ] CSS flexbox support
+ - [ ] Custom elements
 
   
   
