@@ -8,4 +8,15 @@ You can even [link to Google!](http://google.com)
 * Item 2
   * Item 2a
   * Item 2b
+  
+  
+  ```ruby
+class Contact
+ 
+  attr_accessor :name, :email
+
+  def initialize(name, email)
+    # TODO: assign local variables to instance variables
+  end
+
 
