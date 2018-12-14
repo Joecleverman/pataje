@@ -7,7 +7,7 @@ You can even [link to Google!](http://google.com)
  - [ ] Screen width (integer)
  - [x] Service worker support
  - [x] Fetch support
- - [x ] CSS flexbox support
+ - [x] CSS flexbox support
  - [ ] Custom elements
 
 * Item 1
